@@ -1,15 +1,15 @@
 {
-  "name": "new-angular",
+  "name": "spiel",
   "version": "0.0.1",
-  "description": "Initualize a new Angular app",
+  "description": "The game of clever merchants selling creative products to unique customers",
   "homepage": "http://moritzcompany.com",
   "author": "Moritz Company",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidmoritz/init-angular.git"
+    "url": "https://github.com/davidmoritz/spiel.git"
   },
   "bugs": {
-    "url": "https://github.com/davidmoritz/init-angular/issues"
+    "url": "https://github.com/davidmoritz/spiel/issues"
   },
   "scripts": {
     "install": "bower install"
